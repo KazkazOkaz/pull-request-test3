@@ -8,7 +8,7 @@ var sortNumber = function (number) {
    });
 };
 
-var number = [999];
+var number = [999, 19, 3, 81, 1, 24, 21];
 var number2 = [19, 3, 81, 1, 24, 21, 999];
 sortNumber(number);
 console.log(number);
